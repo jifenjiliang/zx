@@ -1,0 +1,374 @@
+[
+    {
+        "classID": "recommend",
+        "className": "title",
+        "imgName":"goods_t",
+        "src": "http://images.xiu.com/edm/hd_home_160308/goods_t.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a1",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a1.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a3",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a3.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a2",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a2.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a4",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a4.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a6",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a6.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "a",
+        "imgName":"goods_a5",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_a5.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b1",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b1.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b2",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b2.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b3",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b3.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b5",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b5.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b4",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b4.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "b",
+        "imgName":"goods_b6",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_b6.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c1",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c1.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c3",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c3.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c2",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c2.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c4",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c4.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c5",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c5.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "c",
+        "imgName":"goods_c6",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_c6.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d2",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1216goods_d2.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d1",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_d1.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d3",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_d3.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d4",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_d4.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d6",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_d6.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "d",
+        "imgName":"goods_d5",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_d5.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e1",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e1.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e3",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e3.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e2",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e2.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e4",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e4.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e5",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e5.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e6",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e6.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e7",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e7.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e8",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e8.jpg"
+    },
+    {
+        "classID": "recommend",
+        "className": "e",
+        "imgName":"goods_e9",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1217goods_e9.jpg"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "topic_t",
+        "imgName":"topic_t",
+        "src": "http://images.xiu.com/edm/hd_home_160308/topic_t.jpg"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_06",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1215beats_06.jpg",
+        "srcPosition": "http://images.xiu.com/edm/hd_home_161006/1215beats_06.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_01",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1215beats_01.jpg",
+        "srcPosition":"http://images.xiu.com/edm/hd_home_161006/1215beats_01.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_02",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1206beats_02.jpg",
+        "srcPosition": "http://images.xiu.com/edm/hd_home_161006/1206beats_02.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_03",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1215beats_03.jpg",
+        "srcPosition": "http://images.xiu.com/edm/hd_home_161006/1215beats_03.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_04",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1208beats_04.jpg",
+        "srcPosition": "http://images.xiu.com/edm/hd_home_161006/1208beats_04.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "beats",
+        "imgName":"beats_05",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1206beats_05.jpg",
+        "srcPosition": "http://images.xiu.com/edm/hd_home_161006/1206beats_05.png"
+    },
+    {
+        "classID": "hotTopic",
+        "className": "topic_m",
+        "imgName":"topic_m",
+        "src": "http://images.xiu.com/edm/hd_home_160308/topic_m.jpg"
+    },
+    {
+        "classID": "car",
+        "className": "car",
+        "imgName":"auto",
+        "src": "http://images.xiu.com/edm/hd_home_161006/1129auto.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "found_t",
+        "imgName":"found_t",
+        "src": "http://images.xiu.com/edm/hd_home_160308/found_t.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_001",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_001.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_002",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_002.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_003",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_003.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_004",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_004.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_005",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_005.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_006",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_006.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_007",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_007.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_008",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_008.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_009",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_009.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_010",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_010.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_011",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_011.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_012",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_012.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_013",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_013.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_014",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_014.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_015",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_015.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "con",
+        "imgName":"20161201_016",
+        "src": "http://images.xiu.com/edm/hd_home_161006/20161201_016.jpg"
+    },
+    {
+        "classID": "find",
+        "className": "fonud_m",
+        "imgName":"fonud_m",
+        "src": "http://images.xiu.com/edm/hd_home_160308/fonud_m.jpg"
+    }
+]
